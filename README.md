@@ -1,4 +1,6 @@
-![Banderogus](./img/gus3.svg)<br>
+
+<img align="right" src="./img/gus3.svg" width="200" height="200" />
+
 # "Bander goose" website
 Demo humor website
 Demonstration humorous site about "bander goose"
